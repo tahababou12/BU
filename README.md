@@ -1,9 +1,15 @@
-# pa-4
+# CovidRescue
+
+## Project Summary
+
+In this project, I developed a simulation utilizing C++ to simulate the spread and behavior of COVID-19 in a two-dimensional world. I utilized advanced programming concepts such as objects, inheritance, polymorphism, operator overloading, and dynamic casting to create a realistic and engaging simulation. I executed a hierarchy of objects with various behaviors, including spreading the virus or becoming immune. Through the creation of this simulation, I demonstrated my ability to think critically and solve complex problems.
+
+## pa-4
 
 Use the make file to compile.
 This is the continuation of PA3.
 
-# Step-1 / Extra-credit
+## Additional Features
 For Step 1 of this assignment, I decided to implement methods 1 and 4.
 
 For extra-credit, I added two new classes, DensmoreBoss and HospitalVirusOnly. DensmoreBoss acts as a virus spawner which originates from one location only (20,20) and spreads to 4 possible destinations: 
