@@ -1,2 +1,3 @@
 # MATLAB Truss Design Simulator
 
+This code was written in MATLAB and is used to analyze a truss structure based on user input of pin joint locations and external loads. It calculates the horizontal and vertical member components of the truss, determines the length of each member, concatenates the member components and external loads into a matrix, solves for unknown forces using matrix operations, calculates the total cost to make the truss, and analyzes the truss's ability to withstand external loads. The output of the code includes the maximum load-to-cost ratio and a critical weight load ratio that can cause the truss to fail.
